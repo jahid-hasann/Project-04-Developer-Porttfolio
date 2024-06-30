@@ -1,3 +1,18 @@
 body{
     font-family: "Open Sans", sans-serif;
 }
+.button-main{
+    background: #FD6E0A;
+    color:#fff;
+    padding:16px 25px;
+    display:flex;
+    border-radius: 5px;
+}
+.button-outline{
+    background: transparent;
+    border: 2px solid #FD6E0A;
+    color: #FD6E0A;
+    padding:16px 25px;
+    display:flex;
+    border-radius: 5px;
+}
